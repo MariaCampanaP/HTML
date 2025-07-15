@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false"/>
+
 # ☕︎ HTML
 
 Este repositório foi criado para organizar e compartilhar meus códigos, exercícios e exemplos práticos feitos durante meus estudos de HTML. Aqui, você encontrará páginas simples, experimentos e pequenas aplicações para praticar a estruturação de conteúdo na web.
@@ -32,3 +34,7 @@ Em constante atualização! ✩
 
  ```bash
 git clone https://github.com/MariaCampanaP/HTML.git
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
+
